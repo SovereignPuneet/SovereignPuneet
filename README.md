@@ -1,38 +1,65 @@
-# 👋 Hey there, I’m Puneet (aka SovereignPuneet)
+# 👋 Hey, I’m Puneet (aka SovereignPuneet) ✨  
 
-- 👀 I’m passionate about **web development, problem-solving, and building projects that make an impact**.  
-- 🌱 Currently diving deeper into **JavaScript, Python, and full-stack development**.  
-- 💡 Always curious to explore **open-source projects and creative tech ideas**.  
-- 📫 Reach me at: [Email](mailto:developerpuneet2010@gmail.com) | [Twitter](https://twitter.com/PuneetKumar2010)  
-- ⚡ Fun fact: **I started coding at 12 and love turning caffeine into code!**
+Welcome to my corner of the internet 🚀 where  
+**curiosity fuels creativity, and code builds the future.**  
 
 ---
 
-## 🌐 Connect with me
+## 📌 About Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-SovereignPuneet-181717?logo=github)](https://github.com/SovereignPuneet)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/PuneetKumar2010)
-
----
-
-## 🚀 Skills & Technologies
-
-- **Front-End:** HTML, CSS, JavaScript, React  
-- **Back-End:** Node.js, Express, MongoDB  
-- **Programming Languages:** JavaScript, Python, Go  
-- **Tools:** Git, GitHub, VSCode, Postman  
+- 🧑‍🎓 Student + Self-taught Developer  
+- 🔭 Currently leveling up in **JavaScript, Python, and Full-Stack Dev**  
+- 💡 Passionate about **open-source, problem-solving, and building cool projects**  
+- ⚡ Fun fact: I started coding at **12** and haven’t stopped since!  
 
 ---
 
-## 📚 Learning Resources I Use
+## 🌐 Connect With Me  
 
-- [JavaScript Info](https://javascript.info/)  
-- [Node.js Docs](https://nodejs.org/en/docs/)  
-- [React Docs](https://reactjs.org/docs/getting-started.html)  
-- [Go by Example](https://gobyexample.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-SovereignPuneet-181717?style=for-the-badge&logo=github)](https://github.com/SovereignPuneet)  
+[![Twitter](https://img.shields.io/badge/Twitter-@PuneetKumar2010-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PuneetKumar2010)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developerpuneet2010@gmail.com)  
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Tech Stack  
 
-![Puneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SovereignPuneet&show_icons=true&theme=radical)
+### 🖌️ Frontend Magic  
+`HTML` `CSS` `JavaScript` `React`  
+
+### ⚙️ Backend Power  
+`Node.js` `Express` `MongoDB`  
+
+### 💻 Languages  
+`JavaScript` `Python` `Go`  
+
+### 🛠️ Tools I Use  
+`Git` `GitHub` `VSCode` `Postman`  
+
+---
+
+## 📊 GitHub Stats & Streaks  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SovereignPuneet&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SovereignPuneet&layout=compact&theme=tokyonight)  
+
+---
+
+## 📚 Favorite Resources  
+
+- 🧠 [JavaScript Info](https://javascript.info/)  
+- ⚡ [Node.js Docs](https://nodejs.org/en/docs/)  
+- ⚛️ [React Docs](https://reactjs.org/docs/getting-started.html)  
+- 🐹 [Go by Example](https://gobyexample.com/)  
+
+---
+
+## 🎉 Fun Zone  
+
+- ✍️ Love writing code more than essays  
+- 🔎 Debugging = detective work 🕵️  
+- 🚀 Motto: **“Build. Break. Learn. Repeat.”**  
+
+---
+
+💡 *P.S. If you’re reading this, you’ve officially entered my GitHub world. Welcome aboard!* 😎  
